@@ -305,6 +305,13 @@ let bigFiles =
 
 ***
 
-### Questions
+### Questions?!
+
+***
+
+### Slides
+
+- [source](https://github.com/xajler/fsharp-lang-slides)
+- [output](http://metaintellect.com/fs-lang-slides/#/)
 *)
 
